@@ -28,3 +28,4 @@ ggplot(aes(x = theoretical_quantiles, y = sample_quantile)) + geom_point()
 
 
 plot(theoretical_quantiles, sample_quantile)
+qplot(theoretical_quantiles, sample_quantile) + geom_abline()
