@@ -13,4 +13,3 @@ sigma*sqrt(n)
 
 
 pnorm(0, mu*500, sigma*sqrt(500))
-d
